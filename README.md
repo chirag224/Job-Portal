@@ -49,7 +49,7 @@ This project is a job listing and application portal with a chatbot interface po
    ```
 4. Run the backend server:
    ```bash
-   npm start
+   nodemon server.js
    ```
 
 ### Frontend Setup:
